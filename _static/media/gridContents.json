@@ -6,7 +6,7 @@
                 "title": "Gravity Ball",
                 "description": "自作ガバガバ物理エンジンのDEMO",
                 "url": "/products/p5js/run.html?source=apps/bananaumaiyo/gravityBall/",
-                "imageSrc": "/_static/media/background.png",
+                "imageSrc": "/products/p5js/apps/bananaumaiyo/gravityBall/thumbnail.png",
                 "creatorName": "bananaumaiyo"
             },
             {
@@ -19,14 +19,7 @@
             {
                 "title": "ホッケーゲーム(二人対戦)",
                 "description": "上下移動でスコアをためて必殺技!",
-                "url": "/products/p5js/run.html?source=apps/syo-gayaki/airHockey/",
-                "imageSrc": "/_static/media/background.png",
-                "creatorName": "生姜焼き"
-            },
-            {
-                "title": "3Dシューティングゲーム",
-                "description": "敵を倒してハイスコアを目指せ!",
-                "url": "/products/p5js/run.html?source=apps/syo-gayaki/3DShooting/",
+                "url": "/products/p5js/run.html?source=apps/sho-gayaki/airHockey/",
                 "imageSrc": "/_static/media/background.png",
                 "creatorName": "生姜焼き"
             }

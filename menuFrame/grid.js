@@ -1,6 +1,6 @@
 async function itemFetch(tabIndex){
-    this.document.body.style.setProperty('--imgWidth', ((405-15) * widthPercent) + "px");
-    this.document.body.style.setProperty('--imgHeight', ((450-48) * heightPercent) + "px");
+    this.document.body.style.setProperty('--imgWidth', ((405-15) * widthPercent) + "px");//390
+    this.document.body.style.setProperty('--imgHeight', ((450-50) * heightPercent) + "px");//400
     let gridItem = await fetch("assets/gridItem.html").then(response => response.text());
     const gridContentsJson = await fetch("/_static/media/gridContents.json").then(response => response.json());
     

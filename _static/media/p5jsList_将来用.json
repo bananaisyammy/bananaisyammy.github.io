@@ -16,14 +16,14 @@
     {
         "title": "フラッピーフラッピー",
         "description": "一人二役できる<br>ちょっと変わったフラッピーゲーム",
-        "url": "run.html?source=apps/syo-gayaki/flappy/",
+    "url": "run.html?source=apps/sho-gayaki/flappy/",
     "imageSrc": "/_static/media/background.png",
         "creatorName": "生姜焼き"
     },
     {
         "title": "ホッケーゲーム(二人対戦)",
         "description": "上下移動でスコアをためて必殺技!",
-        "url": "run.html?source=apps/syo-gayaki/airHockey/",
+    "url": "run.html?source=apps/sho-gayaki/airHockey/",
     "imageSrc": "/_static/media/background.png",
         "creatorName": "生姜焼き"
     }
